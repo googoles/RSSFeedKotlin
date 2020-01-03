@@ -20,13 +20,13 @@
         <TextView
             android:id="@+id/txtTitle"
             android:text="Title"
-            android:textSize="10sp"
+            android:textSize="15dp"
             android:textStyle="bold"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             />
         <TextView
-            android:id="@+id/Pubdate"
+            android:id="@+id/txtPubdate"
             android:text="2020-01-02"
             android:textSize="12sp"
             android:textStyle="italic"
